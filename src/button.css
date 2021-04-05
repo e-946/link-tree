@@ -1,0 +1,55 @@
+
+    .btn-Twitch {
+        background:#9146ff;
+        color:#ECECEC;
+    }
+    .btn-Twitch:hover{
+        background:#ECECEC;
+        color:#9146ff;
+    }
+    
+    .btn-Github {
+        background:#131313;
+        color:#ECECEC;
+    }
+    .btn-Github:hover{
+        background:#ECECEC;
+        color:#131313;
+    }
+    
+    .btn-LinkeDin {
+        background:#0274b3;;
+        color:#FFF;
+    }
+    .btn-LinkeDin:hover{
+        background:#FFF;
+        color:#0274b3;;
+    }
+    
+    .btn-Facebook {
+        background:#4267b2;
+        color:#ECECEC;
+    }
+    .btn-Facebook:hover{
+        background:#ECECEC;
+        color:#4267b2;
+    }
+    
+    .btn-Instagram {
+        background:linear-gradient(27deg, rgba(131,58,180,1) 0%, rgba(251,32,104,1) 43%, rgba(253,29,29,1) 58%, rgba(252,176,69,1) 100%);;
+        color:#FFF;
+    }
+    .btn-Instagram:hover{
+        background:#FFF;
+        color:linear-gradient(27deg, rgba(131,58,180,1) 0%, rgba(251,32,104,1) 43%, rgba(253,29,29,1) 58%, rgba(252,176,69,1) 100%);;
+    }
+    
+    .btn-Twitter {
+        background:#36b9fE;
+        color:#ECECEC;
+    }
+    .btn-Twitter:hover{
+        background:#ECECEC;
+        color:#36b9fE;
+    }
+    

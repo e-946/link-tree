@@ -1,0 +1,57 @@
+{
+    "buttons": [
+        {
+              "name": "Instagram",
+              "link": "https://www.instagram.com/daferreira946/",
+              "color": "#FFF",
+              "background-color": "linear-gradient(27deg, rgba(131,58,180,1) 0%, rgba(251,32,104,1) 43%, rgba(253,29,29,1) 58%, rgba(252,176,69,1) 100%);",
+              "priority": 2
+        },
+        {
+            "name": "LinkeDin",
+            "link": "https://www.linkedin.com/in/daferreira946/",
+            "color": "#FFF",
+            "background-color":"#0274b3;",
+            "priority": 1
+        },
+        {
+            "name": "Twitch",
+            "link": "https://www.twitch.tv/daferreira",
+            "color": "#ECECEC",
+            "background-color": "#9146ff",
+            "priority": 0
+        },
+        {
+            "name": "Github",
+            "link": "https://www.github.com/daferreira946",
+            "color": "#ECECEC",
+            "background-color": "#131313",
+            "priority": 1
+        },
+        {
+            "name": "Twitter",
+            "link": "https://www.twitter.com/daferreira946",
+            "color": "#ECECEC",
+            "background-color": "#36b9fE",
+            "priority": 2
+        },
+        {
+            "name": "Facebook",
+            "link": "https://www.twitter.com/daferreira946",
+            "color": "#ECECEC",
+            "background-color": "#4267b2",
+            "priority": 2
+        }
+    ],
+    "footer":
+    {   
+        "opacity" :0.5,
+        "color": "#000",
+        "align": "center"
+    },
+    "header":
+    {
+        "image":"https://picsum.photos/300",
+        "username":"Daferreira946"
+    }
+}
